@@ -1,4 +1,4 @@
-# 📚 Libreria Manager - Laravel CRUD
+# Libreria Manager - Laravel CRUD
 
 Progetto sviluppato in **Laravel 12** per la gestione di prodotti (libri/fumetti) e categorie.
 
@@ -6,7 +6,7 @@ L'applicazione permette di creare, modificare, visualizzare ed eliminare prodott
 
 ---
 
-# 🚀 Funzionalità
+#  Funzionalità
 
 ## Gestione Prodotti
 
@@ -27,7 +27,7 @@ L'applicazione permette di creare, modificare, visualizzare ed eliminare prodott
 
 ---
 
-# 🧱 Struttura del progetto
+#  Struttura del progetto
 
 ```
 app
@@ -60,7 +60,7 @@ resources/views
 
 ---
 
-# 🗄️ Relazioni Database
+# Relazioni Database
 
 Una **categoria può avere molti prodotti**.
 
@@ -79,7 +79,7 @@ Product -> belongsTo(Category)
 
 ---
 
-# 🛠 Tecnologie utilizzate
+# Tecnologie utilizzate
 
 * Laravel 12
 * PHP
@@ -90,7 +90,7 @@ Product -> belongsTo(Category)
 
 ---
 
-# ▶️ Avvio del progetto
+# Avvio del progetto
 
 Installare le dipendenze:
 
@@ -118,6 +118,6 @@ php artisan serve
 
 ---
 
-# 👨‍💻 Autore
+#  Autore
 
 Progetto sviluppato per esercizio CRUD Laravel.
